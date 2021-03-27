@@ -33,4 +33,7 @@ Wind plant: https://lala341.github.io/ARPortals/?type=6
 
 ### 02 Allow to use camera
 ### 03 Focus the camera on the hiro marker.
+
+Hiro marker can show from computer, this is the image: https://mozilla-ni.org/wp/src/media/2020/05/hiro-300x300.png
+
 ### 04 Start simulation AR.
